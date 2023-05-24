@@ -1,0 +1,10 @@
+*.[oa]
+*~
+*.py[cod]
+__pycache__/
+*.ipynb
+*.vscode
+
+*.csv
+*.nc4
+*.nc
